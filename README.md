@@ -48,5 +48,7 @@
 ### To check performance, accessibility, and PWA compliance for your application
 
 **`STEP 0`**: Install `Lighthouse` Chrome Extension, [Click here](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)
+
 **`STEP 1`**: Open Chrome DevTools by choosing the **_Inspect_** option from the right-click menu on the page you need to inspect.
+
 **`STEP 2`**: Go to the Lighthouse tab and click on the **_Generate Report_** button.
